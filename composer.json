@@ -1,0 +1,16 @@
+{
+    "name": "zjeffort/composer-helloworld",
+    "description": "composer init demo",
+    "authors": [
+        {
+            "name": "zjeffort",
+            "email": "zjeffort@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
